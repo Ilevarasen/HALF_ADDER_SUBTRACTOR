@@ -53,11 +53,14 @@ Figure -02 HALF Subtractor
 ### PROGRAM:
 
 
+![Uploading Screenshot 2024-11-21 113338.png…]()
 
 ### LOGIC SYMBOL & TRUTHTABLE:
 
 ### TIMING DIAGRAM:
+![Screenshot 2024-11-21 113414](https://github.com/user-attachments/assets/5413188a-fa38-4ba6-9ae5-238c3dd567a8)
 
 ### RTL:
+![Screenshot 2024-11-21 114348](https://github.com/user-attachments/assets/9163f4e7-ca4e-48ff-85dd-9949faa57284)
 
 ### RESULT:
