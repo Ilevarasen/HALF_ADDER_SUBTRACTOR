@@ -53,7 +53,7 @@ Figure -02 HALF Subtractor
 ### PROGRAM:
 
 
-![Uploading Screenshot 2024-11-21 113338.png…]()
+![Screenshot 2024-11-21 113338](https://github.com/user-attachments/assets/1bc5209d-d38a-4c15-a9c1-3a55888ce709)
 
 ### LOGIC SYMBOL & TRUTHTABLE:
 
