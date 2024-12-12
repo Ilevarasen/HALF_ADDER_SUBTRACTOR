@@ -1,8 +1,6 @@
 ### NAME:ILEVARASEN.S
 ### REG NO:24900688
-### EXPERMENT:HALF_ADDER_SUBTRACTOR
-
-Implementation-of-Half-Adder-and-Half Subtractor-circuit
+### EXPERMENT-3:HALF ADDER AND HALF SUBTRACTOR
 
 ### AIM:
 
